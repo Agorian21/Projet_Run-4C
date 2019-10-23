@@ -1,0 +1,55 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url("Space.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+span:hover
+{
+    color: white;
+    margin: 0;
+    font-size: 16px;
+    background-color: black;
+    cursor: pointer;
+}
+
+span
+{
+    color: blue;
+    margin: 0;
+    font-size: 16px;
+}
+
+input
+{
+    margin: 5px;
+    text-align: center;
+}
+
+
+h2
+{
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: red;
+    color: white;
+    margin: 0px;
+    border: solid black;
+}
+
+.header
+{
+    text-align: center;
+    background-color: darkolivegreen;;
+    border: solid black;
+}
+
+ul
+{
+    background-color: slategrey;
+    padding: 12px 8px 12px 40px;
+    border: 1px dashed black;
+}
